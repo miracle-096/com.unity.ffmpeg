@@ -1,0 +1,9 @@
+{
+  "name": "com.tal.ffmpeg",
+  "displayName": "Tal.FFmpeg",
+  "description": "FFmpeg",
+  "version": "1.0.0",
+  "unity": "2020.1",
+  "license": "MIT",
+  "type": "library"
+}
